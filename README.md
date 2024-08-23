@@ -17,7 +17,7 @@ Cette application vous permet de gérer vos tâches quotidiennes en ajoutant, mo
 ### Cloner le Dépôt
 Clonez ce dépôt sur votre machine locale :
 ```bash
-git clone https://github.com/MerlinsCode/todo-app.git
+git clone https://github.com/merlincod/todoapp.git
 ```
 ### Naviguer dans le Répertoire du Projet
 ```bash
